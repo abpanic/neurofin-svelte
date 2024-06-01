@@ -3,7 +3,7 @@ import { Client, Account } from '@appwrite.io/console';
 
 const client = new Client();
 client
-    .setEndpoint('https://neurofin.cloud/v1')
+    .setEndpoint('https://cloud.appwrite.io/v1')
     .setProject(PUBLIC_APPWRITE_PROJECT_INIT_ID);
 
 export const appwriteInit = {

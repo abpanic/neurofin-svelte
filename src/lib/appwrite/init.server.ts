@@ -4,7 +4,7 @@ import { Client, Databases } from '@appwrite.io/console';
 
 const clientServer = new Client();
 clientServer
-    .setEndpoint('https://neurofin.cloud/v1')
+    .setEndpoint('https://cloud.appwrite.io/v1')
     .setProject(PUBLIC_APPWRITE_PROJECT_INIT_ID)
     .setKey(APPWRITE_API_KEY_INIT);
 

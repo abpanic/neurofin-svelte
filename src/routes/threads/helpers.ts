@@ -1,9 +1,5 @@
-import {
-    PUBLIC_APPWRITE_COL_MESSAGES_ID,
-    PUBLIC_APPWRITE_COL_THREADS_ID,
-    PUBLIC_APPWRITE_DB_MAIN_ID,
-    PUBLIC_APPWRITE_FN_TLDR_ID
-} from '$env/static/public';
+//import {    PUBLIC_APPWRITE_COL_MESSAGES_ID,    PUBLIC_APPWRITE_COL_THREADS_ID,    PUBLIC_APPWRITE_DB_MAIN_ID,    PUBLIC_APPWRITE_FN_TLDR_ID
+//} from '$env/static/public';
 import { databases, functions } from '$lib/appwrite';
 import { Query } from '@appwrite.io/console';
 //import type { DiscordMessage, DiscordThread } from './types';
@@ -74,11 +70,11 @@ export async function getThreads({ q, tags, allTags }: GetThreadsArgs) {
         query = [...query, Query.contains('tags', tags)];
     }
 
-    const data = await databases.listDocuments(
-        PUBLIC_APPWRITE_DB_MAIN_ID,
-        PUBLIC_APPWRITE_COL_THREADS_ID,
-        query.filter(Boolean) as string[]
-    );
+    //const data = await databases.listDocuments(
+    //    PUBLIC_APPWRITE_DB_MAIN_ID,
+    //    PUBLIC_APPWRITE_COL_THREADS_ID,
+    //    query.filter(Boolean) as string[]
+    //);
 
     const threadDocs = data.documents as unknown as DiscordThread[];
     return filterThreads({ threads: threadDocs, q, tags, allTags });
