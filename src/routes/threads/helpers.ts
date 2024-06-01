@@ -10,7 +10,7 @@ type Ranked<T> = {
 };
 
 type FilterThreadsArgs = {
-    //threads: DiscordThread[];
+    threads: DiscordThread[];
     q?: string | null;
     tags?: string[];
     allTags?: boolean;
