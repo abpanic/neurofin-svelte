@@ -64,7 +64,7 @@ async function fetchContributors(apiUrl) {
             hasMoreData = false;
         } else {
             contributorsData = contributorsData.concat(data.map((c) => c.login));
-            page++;
+            //page++;
         }
 
         console.log(`Fetched ${data.length} contributors. Total: ${contributorsData.length}...\n`);
