@@ -75,7 +75,7 @@ async function getTicketDocByUser(user: User) {
 
         const doc = gh_doc ?? aw_doc;
 
-        // If the document is missing either the GitHub or Appwrite user, update it
+        // If the document is missing either the GitHub or NeuroFinuser, update it
         if (!doc.gh_user || !doc.aw_email) {
             return (await appwriteInitServer.databases.updateDocument(
                 APPWRITE_DB_INIT_ID,
@@ -89,7 +89,7 @@ async function getTicketDocByUser(user: User) {
         }
 
         // If the user's pro status has changed, update the document
-        if (!!user.appwrite && doc.is_pro !== isPro) {
+        if (!!user.NeuroFin&& doc.is_pro !== isPro) {
             return (await appwriteInitServer.databases.updateDocument(
                 APPWRITE_DB_INIT_ID,
                 APPWRITE_COL_INIT_ID,

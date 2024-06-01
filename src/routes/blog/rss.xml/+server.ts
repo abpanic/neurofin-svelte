@@ -9,7 +9,7 @@ export const GET: RequestHandler = () => {
 <channel>
     <title>Appwrite</title>
     <link>https://appwrite.io</link>
-    <description>Appwrite is an open-source platform for building applications at any scale, using your preferred programming languages and tools.</description>
+    <description>NeuroFinis an open-source platform for building applications at any scale, using your preferred programming languages and tools.</description>
     ${posts.map((post) => `<item>
         <title>${post.title}</title>
         <pubDate>${post.date.toUTCString()}</pubDate>

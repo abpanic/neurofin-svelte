@@ -16,7 +16,7 @@
             <div class="cardy">
                 <h3 class="web-label web-u-color-text-primary">Get premium support</h3>
                 <p class="web-main-body-400 u-margin-block-start-16 web-u-color-text-primary">
-                    Join Appwrite Pro and get email support from our team.
+                    Join NeuroFinPro and get email support from our team.
                 </p>
                 <a class="web-button u-margin-block-start-24" href="https://appwrite.io/pricing">
                     <span class="text">Learn more</span>

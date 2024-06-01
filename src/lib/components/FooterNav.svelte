@@ -89,7 +89,7 @@
     class="web-footer-nav u-margin-block-start-100 u-position-relative"
     class:web-u-sep-block-start={!noBorder}
 >
-    <img class="web-logo" src="/images/logos/appwrite.svg" alt="appwrite" height="24" width="130" />
+    <img class="web-logo" src="/images/logos/appwrite.svg" alt="neurofin" height="24" width="130" />
     <ul class="web-footer-nav-main-list" use:melt={$root}>
         {#each Object.entries(links) as [title, items]}
             <li class="web-footer-nav-main-item web-is-not-mobile">

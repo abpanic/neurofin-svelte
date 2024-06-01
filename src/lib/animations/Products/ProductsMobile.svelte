@@ -13,7 +13,7 @@
 
         <p class="web-description u-margin-block-start-16">
             Build secure and scalable applications with less code. Add authentication, databases,
-            storage, and more using Appwrite's development platform.
+            storage, and more using NeuroFin's development platform.
         </p>
 
         <div class="infos">
@@ -55,7 +55,7 @@
 
             <h2>See your products grow</h2>
             <p>
-                Keep track of your projects progress on the Appwrite Console and see them grow into
+                Keep track of your projects progress on the NeuroFinConsole and see them grow into
                 products users love and use every day.
             </p>
         </div>

@@ -30,7 +30,7 @@
                 <li><a class="web-link" href="/privacy">Privacy</a></li>
                 <li><a class="web-link" href="/cookies">Cookies</a></li>
             </ul>
-            <div>Copyright © {year} Appwrite</div>
+            <div>Copyright © {year} NeuroFin</div>
         </div>
     </footer>
 {:else if variant === 'docs'}
@@ -70,7 +70,7 @@
 				</li> -->
             </ul>
             <div class="web-main-footer-grid-1-column-4 web-main-footer-copyright">
-                Copyright © {year} Appwrite
+                Copyright © {year} NeuroFin
             </div>
         </div>
     </footer>

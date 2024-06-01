@@ -122,23 +122,23 @@
 {#if ticket.aw_email}
     <div class="u-flex u-cross-center u-gap-8 web-u-color-text-primary">
         <img src="/images/icons/colored/check.svg" alt="" />
-        <span class="web-sub-body-500">Appwrite account connected</span>
+        <span class="web-sub-body-500">NeuroFinaccount connected</span>
     </div>
 
     <p class="web-sub-body-500" style="margin-block-start: 0.25rem;">
         Your ticket has been upgraded.
     </p>
 {:else}
-    <h2 class="web-sub-body-500 web-u-color-text-primary">Integrate your Appwrite account</h2>
+    <h2 class="web-sub-body-500 web-u-color-text-primary">Integrate your NeuroFinaccount</h2>
     <p class="web-sub-body-500" style:margin-block-start="0.25rem">
-        Sign in with your Appwrite account and see the magic happen in your ticket.
+        Sign in with your NeuroFinaccount and see the magic happen in your ticket.
     </p>
     <a
-        href="https://cloud.appwrite.io/login?forceRedirect={$page.url.origin}/init/tickets"
+        href="https://neurofin.cloud/login?forceRedirect={$page.url.origin}/init/tickets"
         class="web-button is-full-width is-secondary u-margin-block-start-24"
     >
-        <div class="web-icon-appwrite web-u-color-text-primary" />
-        <span class="text">Log in to Appwrite account</span>
+        <div class="web-icon-NeuroFinweb-u-color-text-primary" />
+        <span class="text">Log in to NeuroFinaccount</span>
     </a>
 {/if}
 <hr />

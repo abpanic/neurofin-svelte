@@ -168,7 +168,7 @@
                     <Fence
                         language="text"
                         badge="Base URL"
-                        content="https://cloud.appwrite.io/v1"
+                        content="https://neurofin.cloud/v1"
                         process
                         withLineNumbers={false}
                     />

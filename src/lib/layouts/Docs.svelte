@@ -85,21 +85,21 @@
                 <img
                     class="web-logo u-only-dark"
                     src="/images/logos/appwrite.svg"
-                    alt="appwrite"
+                    alt="neurofin"
                     height="24"
                     width="130"
                 />
                 <img
                     class="web-logo u-only-light"
                     src="/images/logos/appwrite-light.svg"
-                    alt="appwrite"
+                    alt="neurofin"
                     height="24"
                     width="130"
                 />
             </a>
         </div>
         <div class="web-mobile-header-end">
-            <a href="https://cloud.appwrite.io" class="web-button web-is-only-desktop">
+            <a href="https://neurofin.cloud" class="web-button web-is-only-desktop">
                 <span class="web-sub-body-500">Go to Console</span>
             </a>
             <button class="web-button is-text" aria-label="open navigation" on:click={toggleSidenav}>
@@ -121,14 +121,14 @@
                     <img
                         class="web-logo u-only-dark"
                         src="/images/logos/appwrite.svg"
-                        alt="appwrite"
+                        alt="neurofin"
                         height="24"
                         width="130"
                     />
                     <img
                         class="web-logo u-only-light"
                         src="/images/logos/appwrite-light.svg"
-                        alt="appwrite"
+                        alt="neurofin"
                         height="24"
                         width="130"
                     />

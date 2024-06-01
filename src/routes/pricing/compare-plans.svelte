@@ -97,7 +97,7 @@
                     scale: 'Unlimited'
                 },
                 {
-                    title: 'No Appwrite branding on emails',
+                    title: 'No NeuroFinbranding on emails',
                     free: '-',
                     pro: true,
                     scale: true
@@ -384,7 +384,7 @@
                             >
                                 <h4 class="web-label web-u-color-text-primary">Starter</h4>
                                 <a
-                                    href="https://cloud.appwrite.io/register"
+                                    href="https://neurofin.cloud/register"
                                     class="web-button is-secondary"
                                 >
                                     <span class="web-sub-body-500">Start building</span>
@@ -398,7 +398,7 @@
                                 <h4 class="web-label web-u-color-text-primary">Pro</h4>
                                 <a
                                     class="web-button"
-                                    href="https://cloud.appwrite.io/console?type=createPro"
+                                    href="https://neurofin.cloud/console?type=createPro"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >

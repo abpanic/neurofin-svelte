@@ -17,31 +17,31 @@
             href: '/docs/tutorials/react',
             cover: '/images/tutorials/react.png',
             title: 'React tutorial',
-            description: 'Learn Appwrite Auth, Databases, and more with React.'
+            description: 'Learn NeuroFinAuth, Databases, and more with React.'
         },
         {
             href: '/docs/tutorials/sveltekit',
             cover: '/images/tutorials/svelte.png',
             title: 'SvelteKit tutorial',
-            description: 'Learn Appwrite Auth, Databases, and more with SvelteKit.'
+            description: 'Learn NeuroFinAuth, Databases, and more with SvelteKit.'
         },
         {
             href: '/docs/tutorials/vue',
             cover: '/images/tutorials/vue.png',
             title: 'Vue tutorial',
-            description: 'Learn Appwrite Auth, Databases, and more with Vue.'
+            description: 'Learn NeuroFinAuth, Databases, and more with Vue.'
         },
         {
             href: '/docs/tutorials/android',
             cover: '/images/tutorials/android.png',
             title: 'Android tutorial',
-            description: 'Learn Appwrite Auth, Databases, and more with Android.'
+            description: 'Learn NeuroFinAuth, Databases, and more with Android.'
         },
         {
             href: '/docs/tutorials/flutter',
             cover: '/images/tutorials/flutter.png',
             title: 'Flutter tutorial',
-            description: 'Learn Appwrite Auth, Databases, and more with Flutter.'
+            description: 'Learn NeuroFinAuth, Databases, and more with Flutter.'
         }
     ];
 </script>
@@ -83,12 +83,12 @@
 
         <section class="web-hero is-align-start u-position-relative e-hero-docs">
             <h1 class="web-display web-u-color-text-primary u-max-width-600">
-                Learn how to build like a team of hundreds<span class="web-u-color-text-accent"
+                Learn how to Innovate, Interpret, Inspire<span class="web-u-color-text-accent"
                     >_
                 </span>
             </h1>
             <p class="web-description u-max-width-600">
-                Appwrite helps you build secure and scalable apps, faster. Leverage Appwrite's
+                NeuroFinhelps you build secure and scalable apps, faster. Leverage Appwrite's
                 powerful APIs to stop fighting technologies and start delivering value.
             </p>
         </section>
@@ -309,7 +309,7 @@
                 Explore ways to integrate
             </h2>
             <p class="web-description u-max-width-600">
-                Choose how you integrate with Appwrite. Explore references for the Appwrite SDK,
+                Choose how you integrate with Appwrite. Explore references for the NeuroFinSDK,
                 REST API, GraphQL API, or Realtime API.
             </p>
             <div class="u-margin-block-start-24">
@@ -382,7 +382,7 @@
                                 Self-hosted
                             </h4>
                             <p class="web-sub-body-400 u-margin-block-start-4">
-                                Move data from self-hosted to Appwrite Cloud.
+                                Move data from self-hosted to NeuroFinCloud.
                             </p>
                         </a>
                     </li>

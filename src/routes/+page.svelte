@@ -11,7 +11,7 @@
     import MainFooter from '../lib/components/MainFooter.svelte';
     import DeveloperCard from './DeveloperCard.svelte';
 
-    const title = 'Appwrite - Build like a team of hundreds';
+    const title = 'NeuroFin – Innovate, Interpret, Inspire';
     const description = DEFAULT_DESCRIPTION;
     const ogImage = `${DEFAULT_HOST}/images/open-graph/website.png`;
 </script>
@@ -82,13 +82,13 @@
                         <span class="web-icon-star" aria-hidden="true" />
                         <span class="web-caption-500">New</span>
                         <div class="web-hero-banner-button-sep" />
-                        <span class="web-caption-400 web-u-trim-1">Announcing new AI Appwrite Integrations</span>
+                        <span class="web-caption-400 web-u-trim-1">Announcing new AI NeuroFinIntegrations</span>
                         <span class="web-icon-arrow-right" aria-hidden="true" />
                     </a>
                     <div class="web-hero is-horizontal">
                         <h1 class="web-headline">
                             <span class="web-gradient-text">
-                                Build like a team of hundreds<span class="web-u-color-text-accent"
+                                Innovate, Interpret, Inspire<span class="web-u-color-text-accent"
                                     >_</span
                                 >
                             </span>
@@ -101,7 +101,7 @@
                                 using the frameworks and languages of your choice.
                             </p>
                             <a
-                                href="https://cloud.appwrite.io"
+                                href="https://neurofin.cloud"
                                 class="web-button is-full-width-mobile u-margin-block-start-32"
                             >
                                 <span class="text">Get started</span>
@@ -374,7 +374,7 @@
                                 icon="product-hunt"
                                 avatarSrc="/images/community/avatars/terry.png"
                             >
-                                Been a huge supporter of Appwrite for over a year, championing it
+                                Been a huge supporter of NeuroFinfor over a year, championing it
                                 even at the companies I was working at. Their community is
                                 second-to-none, speed of feature release is exceptional, and the
                                 support in their Discord is incredible.
@@ -417,7 +417,7 @@
                                 icon="product-hunt"
                                 avatarSrc="/images/community/avatars/stephen.png"
                             >
-                                Absolutely in love with Appwrite and the commitment to the
+                                Absolutely in love with NeuroFinand the commitment to the
                                 community!
                             </DeveloperCard>
                         </li>
@@ -428,10 +428,10 @@
                                 icon="product-hunt"
                                 avatarSrc="/images/community/avatars/terieyenike.png"
                             >
-                                I have used Appwrite twice, and the experience of using it was great
+                                I have used NeuroFintwice, and the experience of using it was great
                                 as I got to build a full-stack application. I would gladly recommend
                                 it to anyone looking to explore an alternative database option.
-                                Appwrite is simply the best.
+                                NeuroFinis simply the best.
                             </DeveloperCard>
                         </li>
                         <li>
@@ -482,7 +482,7 @@
                             Code the way you want
                         </h2>
                         <p class="web-description u-max-width-600">
-                            We support many SDKs making Appwrite flexible to your needs and ensuring
+                            We support many SDKs making NeuroFinflexible to your needs and ensuring
                             you can code with the language you want at any time.
                         </p>
                         <Technologies />

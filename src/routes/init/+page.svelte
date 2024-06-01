@@ -268,7 +268,7 @@
                     style:width="14rem"
                     style:object-fit="cover"
                     style:object-position="top"
-                    alt="Appwrite Init Ticket"
+                    alt="NeuroFinInit Ticket"
                 />
             {/each}
         </div>
@@ -280,7 +280,7 @@
                     style:width="14rem"
                     style:object-fit="cover"
                     style:object-position="top"
-                    alt="Appwrite Init Ticket"
+                    alt="NeuroFinInit Ticket"
                 />
             {/each}
         </div>
@@ -295,7 +295,7 @@
                     your product and build any application at any scale, own your data, and use your
                     preferred coding languages and tools.
                 </p>
-                <a href="https://cloud.appwrite.io" class="web-button">Get started</a>
+                <a href="https://neurofin.cloud" class="web-button">Get started</a>
             </div>
 
             <img class="console" src={ConsoleImage} alt="" />

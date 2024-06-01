@@ -9,6 +9,6 @@ Disallow: /`;
 
 export const GET:RequestHandler = ({url}) => {
   return new Response(
-    url.hostname === 'appwrite.io'  ? follow : nofollow
+    url.hostname === 'neurofin.cloud'  ? follow : nofollow
   );
 }

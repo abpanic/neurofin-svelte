@@ -100,7 +100,7 @@
             },
             title: 'Realtime',
             subtitle: 'Realtime events for every service',
-            description: 'Subscribe and react to any Appwrite event using the Realtime API.',
+            description: 'Subscribe and react to any NeuroFinevent using the Realtime API.',
             features: [
                 'Unlimited subscriptions',
                 'Built-in permission management',
@@ -226,7 +226,7 @@
                         }}
                     >
                         Build secure and scalable applications with less code. Add authentication,
-                        databases, storage, and more using Appwrite's development platform.
+                        databases, storage, and more using NeuroFin's development platform.
                     </p>
                 {/if}
             </div>

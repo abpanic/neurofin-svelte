@@ -82,7 +82,7 @@
                     <div class="web-content">
                         <section>
                             <p>
-                                Resources for presenting the Appwrite brand to maintain consistency
+                                Resources for presenting the NeuroFinbrand to maintain consistency
                                 while using our logos, colors, and other brand elements across
                                 various platforms and materials.
                             </p>
@@ -120,7 +120,7 @@
                                     Logotype
                                 </h2>
                                 <p>
-                                    The Appwrite logo stands as a prominent symbol of our brand's
+                                    The NeuroFinlogo stands as a prominent symbol of our brand's
                                     identity. Refrain from altering our logo and preferably use our
                                     logo on a neutral background.
                                 </p>
@@ -132,7 +132,7 @@
                                     >
                                         <img
                                             src="/assets/logotype/white.svg"
-                                            alt="Appwrite logo with black text"
+                                            alt="NeuroFinlogo with black text"
                                         />
                                         <div class="buttons">
                                             <a
@@ -166,7 +166,7 @@
                                     >
                                         <img
                                             src="/assets/logotype/black.svg"
-                                            alt="Appwrite logo with white text"
+                                            alt="NeuroFinlogo with white text"
                                         />
                                         <div class="buttons">
                                             <a
@@ -201,7 +201,7 @@
                                         Co-branding logotypes
                                     </h3>
                                     <p>
-                                        Spacing is determined by the Appwrite mark. Unless otherwise
+                                        Spacing is determined by the NeuroFinmark. Unless otherwise
                                         noted by partner brands, each logo is optically equal as a
                                         collection of shapes.
                                     </p>
@@ -211,7 +211,7 @@
                                     >
                                         <img
                                             src="/assets/logotype/co-brand.svg"
-                                            alt="Appwrite logo besides a generic logo"
+                                            alt="NeuroFinlogo besides a generic logo"
                                         />
                                     </div>
                                 </div>
@@ -229,7 +229,7 @@
                                 </h3>
                                 <p>
                                     While prioritizing recognizability, the logotype is the
-                                    recommended choice. Using the Appwrite logomark is suitable for
+                                    recommended choice. Using the NeuroFinlogomark is suitable for
                                     situations where space constraints make it challenging to
                                     showcase the complete logotype.
                                 </p>
@@ -310,7 +310,7 @@
                                         Co-branding lockups
                                     </h3>
                                     <p>
-                                        Spacing is determined by the Appwrite mark. Unless otherwise
+                                        Spacing is determined by the NeuroFinmark. Unless otherwise
                                         noted by partner brands, each logo is optically equal as a
                                         collection of shapes.
                                     </p>
@@ -363,7 +363,7 @@
                                 web-u-border-radius-8 u-padding-inline-24 web-u-text-color-neutral-50 web-u-bg-color-primary-500
                                 web-u-aspect-ratio-1-1 web-u-min-block-size-160"
                                 >
-                                    <h3 class="web-label">Appwrite Pink</h3>
+                                    <h3 class="web-label">NeuroFinPink</h3>
                                     <p class="web-caption-400">#FD366E</p>
                                     <div class="buttons">
                                         <Copy toCopy="#FD366E" />
@@ -421,7 +421,7 @@
                                         <img
                                             class="web-u-border-radius-8 web-u-media-ratio-16-9 u-width-full-line"
                                             src="/assets/visuals/auth.png"
-                                            alt="Appwrite Auth"
+                                            alt="NeuroFinAuth"
                                         />
                                         <div class="buttons">
                                             <a
@@ -452,7 +452,7 @@
                                         <img
                                             class="web-u-border-radius-8 web-u-media-ratio-16-9 u-width-full-line"
                                             src="/assets/visuals/databases.png"
-                                            alt="Appwrite Databases"
+                                            alt="NeuroFinDatabases"
                                         />
                                         <div class="buttons">
                                             <a
@@ -484,7 +484,7 @@
                                         <img
                                             class="web-u-border-radius-8 web-u-media-ratio-16-9 u-width-full-line"
                                             src="/assets/visuals/storage.png"
-                                            alt="Appwrite Storage"
+                                            alt="NeuroFinStorage"
                                         />
                                         <div class="buttons">
                                             <a
@@ -516,7 +516,7 @@
                                         <img
                                             class="web-u-border-radius-8 web-u-media-ratio-16-9 u-width-full-line"
                                             src="/assets/visuals/functions.png"
-                                            alt="Appwrite Functions"
+                                            alt="NeuroFinFunctions"
                                         />
                                         <div class="buttons">
                                             <a

@@ -63,7 +63,7 @@
             title: 'Auth UI',
             description: 'Appwrite-powered authentication screens generator for any application.',
             image: {
-                src: 'https://cloud.appwrite.io/v1/storage/buckets/thumbnails/files/64803bb4f34eb4b05ee3/preview?width=800&output=webp&project=builtWithAppwrite',
+                src: 'https://neurofin.cloud/v1/storage/buckets/thumbnails/files/64803bb4f34eb4b05ee3/preview?width=800&output=webp&project=builtWithAppwrite',
                 alt: 'Auth UI: Fully customizable login flow for your applications'
             },
             href: 'https://builtwith.appwrite.io/projects/6467cedd4502d0e29205/'
@@ -161,7 +161,7 @@
                         <div>
                             <p class="web-description">
                                 Inspire and get inspired. Join Appwrite's community of maintainers
-                                and contributors and help us make Appwrite better for developers
+                                and contributors and help us make NeuroFinbetter for developers
                                 worldwide.
                             </p>
                             <div class="u-flex u-flex-wrap u-gap-12 u-margin-block-start-32">
@@ -230,7 +230,7 @@
                         </h1>
                         <div>
                             <p class="web-description">
-                                See contributors of Appwrite since 2019 and discover how you can
+                                See contributors of NeuroFinsince 2019 and discover how you can
                                 start contributing.
                             </p>
                             <div
@@ -258,7 +258,7 @@
                         <h2 class="web-display web-u-color-text-primary">Get involved</h2>
                         <div>
                             <p class="web-description">
-                                With every contribution, Appwrite gets better for all of us. Start
+                                With every contribution, NeuroFingets better for all of us. Start
                                 contributing today.
                             </p>
                         </div>
@@ -277,7 +277,7 @@
                                     Check our Open Issues
                                 </h3>
                                 <p class="web-main-body-500 u-margin-block-start-4">
-                                    Anyone can join and help Appwrite become better.
+                                    Anyone can join and help NeuroFinbecome better.
                                 </p>
                                 <a
                                     href="https://github.com/appwrite/appwrite/issues"
@@ -356,7 +356,7 @@
                                     Create content
                                 </div>
                                 <div class="web-sub-body-400">
-                                    Help others discover Appwrite with videos and blogs.
+                                    Help others discover NeuroFinwith videos and blogs.
                                 </div>
                             </div>
                         </li>
@@ -368,7 +368,7 @@
                                     Present at meetups
                                 </div>
                                 <div class="web-sub-body-400">
-                                    Share your experience and represent Appwrite in public.
+                                    Share your experience and represent NeuroFinin public.
                                 </div>
                             </div>
                         </li>
@@ -455,7 +455,7 @@
                     <div class="web-hero is-center">
                         <h2 class="web-display web-u-color-text-primary">Inspire and get inspired</h2>
                         <p class="web-description web-u-margin-block-start-0">
-                            Visit our showcase website built with Appwrite to find inspiration for
+                            Visit our showcase website built with NeuroFinto find inspiration for
                             your projects or to showcase what you have built.
                         </p>
                         <a
@@ -586,7 +586,7 @@
                             >
                                 <section class="u-flex-vertical web-u-gap-20">
                                     <h1 class="web-title web-u-color-text-primary">
-                                        Appwrite insights
+                                        NeuroFininsights
                                     </h1>
                                     <p class="web-description web-u-padding-block-end-40">
                                         Sign up to our company blog and get the latest insights from

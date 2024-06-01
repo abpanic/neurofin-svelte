@@ -1,6 +1,6 @@
 [
     {
-        "id": "appwrite",
+        "id": "neurofin",
         "path": "src/",
         "schema": {
             "path": ".svelte-kit/markdoc_schema.js",

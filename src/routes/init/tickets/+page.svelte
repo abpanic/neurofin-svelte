@@ -54,12 +54,12 @@
                     <span class="text">Register with GitHub account</span>
                 </button>
                 <a
-                    href="https://cloud.appwrite.io/login?forceRedirect={$page.url
+                    href="https://neurofin.cloud/login?forceRedirect={$page.url
                         .origin}/init/tickets"
                     class="web-button is-full-width is-secondary u-margin-block-start-8"
                 >
-                    <div class="web-icon-appwrite web-u-color-text-primary" />
-                    <span class="text">Register with Appwrite account</span>
+                    <div class="web-icon-NeuroFinweb-u-color-text-primary" />
+                    <span class="text">Register with NeuroFinaccount</span>
                 </a>
                 <p class="u-margin-block-start-16">
                     By registering, you agree to our <a href="/terms" class="web-link is-inline"

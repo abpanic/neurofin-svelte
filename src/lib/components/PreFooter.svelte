@@ -9,7 +9,7 @@
             Start building today
         </h2>
         <a
-            href="https://cloud.appwrite.io"
+            href="https://neurofin.cloud"
             class="web-button is-transparent web-u-cross-child-center"
         >
             <span class="text">Get started</span>
@@ -36,7 +36,7 @@
                         For personal hobby projects and students.
                     </p>
                     <a
-                        href="https://cloud.appwrite.io/register"
+                        href="https://neurofin.cloud/register"
                         class="web-button is-secondary is-full-width-mobile web-u-cross-child-end"
                     >
                         <span class="text">Get started</span>
@@ -54,7 +54,7 @@
                         For pro developers and teams that need to scale their products.
                     </p>
                     <a
-                        href="https://cloud.appwrite.io/console?type=createPro"
+                        href="https://neurofin.cloud/console?type=createPro"
                         class="web-button is-full-width-mobile web-u-cross-child-end"
                         target="_blank"
                         rel="noopener noreferrer"

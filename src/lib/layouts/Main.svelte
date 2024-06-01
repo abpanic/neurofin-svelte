@@ -87,23 +87,23 @@
     });
 
     let navLinks: NavLink[] = [
-        {
+        /**{
             label: 'Docs',
             href: '/docs'
         },
         {
             label: 'Community',
             href: '/community'
-        },
+        },**/
         {
             label: 'Blog',
             href: '/blog'
         },
-        {
+        /**{
             label: 'Changelog',
             href: '/changelog',
             showBadge: hasNewChangelog() && !$page.url.pathname.includes('/changelog')
-        },
+        },**/
         {
             label: 'Pricing',
             href: '/pricing'
@@ -142,14 +142,14 @@
                 <img
                     class="web-logo web-u-only-dark"
                     src="/images/logos/appwrite.svg"
-                    alt="appwrite"
+                    alt="neurofin"
                     height="24"
                     width="130"
                 />
                 <img
                     class="web-logo web-u-only-light"
                     src="/images/logos/appwrite-light.svg"
-                    alt="appwrite"
+                    alt="neurofin"
                     height="24"
                     width="130"
                 />
@@ -157,7 +157,7 @@
         </div>
         <div class="web-mobile-header-end">
             {#if !$isMobileNavOpen}
-                <a href="https://cloud.appwrite.io" class="web-button">
+                <a href="https://neurofin.cloud" class="web-button">
                     <span class="text">Get started</span>
                 </a>
             {/if}
@@ -179,7 +179,7 @@
         class:is-hidden={$isHeaderHidden}
     >
 
-        <div class="web-top-banner">
+        <!--div class="web-top-banner">
             <div class="web-top-banner-content web-u-color-text-primary">
                 <a href="/discord" target="_blank" rel="noopener noreferrer">
                     <span class="web-caption-500">We are having lots of fun on</span>
@@ -196,7 +196,7 @@
                     </button>
                 {/if}
             </div>
-        </div>
+        </div-->
 
         <div class="web-main-header-wrapper">
             <div class="web-main-header-start">
@@ -204,14 +204,14 @@
                     <img
                         class="web-logo web-u-only-dark"
                         src="/images/logos/appwrite.svg"
-                        alt="appwrite"
+                        alt="neurofin"
                         height="24"
                         width="130"
                     />
                     <img
                         class="web-logo web-u-only-light"
                         src="/images/logos/appwrite-light.svg"
-                        alt="appwrite"
+                        alt="neurofin"
                         height="24"
                         width="130"
                     />

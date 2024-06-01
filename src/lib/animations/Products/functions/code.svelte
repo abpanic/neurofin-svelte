@@ -31,7 +31,7 @@ return res.json({ success: true });`.trim();
 		<span in:fade>Pushing to GitHub...</span>
 		<div class="loader is-small" in:fade />
 	{:else if $state.submit === 'success'}
-		<span>Deployed to Appwrite Cloud</span>
+		<span>Deployed to NeuroFinCloud</span>
 		<span class="web-icon-check" />
 	{/if}
 </div>

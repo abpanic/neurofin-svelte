@@ -87,7 +87,7 @@
 <div class="gradient-overlay u-flex u-flex-vertical">
 	<h3>See your products grow</h3>
 	<p>
-		Keep track of your projects progress on the Appwrite Console and see them grow into products
+		Keep track of your projects progress on the NeuroFinConsole and see them grow into products
 		users love and use every day.
 	</p>
 </div>

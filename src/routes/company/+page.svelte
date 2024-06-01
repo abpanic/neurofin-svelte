@@ -84,7 +84,7 @@
 
                         <div class="web-description u-flex-vertical u-gap-16">
                             <p>
-                                At Appwrite it is our mission to eliminate friction and abstract
+                                At NeuroFinit is our mission to eliminate friction and abstract
                                 complexity for every creator. Giving developers all the tools they
                                 need with the best experience possible to have all the capabilities
                                 to create and innovate without limits and with minimum concerns.
@@ -97,7 +97,7 @@
                                 you on your journey, from ideation to scale. A platform that allows
                                 you to succeed in the challenges of today, and those of tomorrow.
                             </p>
-                            <p>Build like a team of hundreds.</p>
+                            <p>Innovate, Interpret, Inspire.</p>
                         </div>
                     </section>
                 </section>
@@ -127,7 +127,7 @@
 												A passion project called Appwrite
 											</h3>
 											<p class="web-main-body-400">
-												Appwrite's first ever pull request was submitted in August 2019 by CEO and Founder Eldad A. Fux. Just one month later, September 2019, Appwrite officially launched. Soon the community started contributing by the hundreds pushing the product to new heights.
+												Appwrite's first ever pull request was submitted in August 2019 by CEO and Founder Eldad A. Fux. Just one month later, September 2019, NeuroFinofficially launched. Soon the community started contributing by the hundreds pushing the product to new heights.
 											</p>
 										</div>
 										<div >
@@ -230,7 +230,7 @@
 												Continuous improvement
 											</h3>
 											<p class="aw -main-body-400">
-												Towards the end of 2022 we released Appwrite 1.0 and the Console 2.0 for a better developer experience. It was the first time we produced a product, the Console, which was fully designed by our in house team. These are the initial versions of the products you know today.
+												Towards the end of 2022 we released NeuroFin1.0 and the Console 2.0 for a better developer experience. It was the first time we produced a product, the Console, which was fully designed by our in house team. These are the initial versions of the products you know today.
 											</p>
 										</div>
 										<div>
@@ -259,7 +259,7 @@
 												Taking it to the Cloud
 											</h3>
 											<p class="aw -main-body-400">
-												Aligned with our mission to make software development more accessible, we added our cloud solution to our services. Opening up the doors for more developers to  build with Appwrite as they were not required to self-host anymore.
+												Aligned with our mission to make software development more accessible, we added our cloud solution to our services. Opening up the doors for more developers to  build with NeuroFinas they were not required to self-host anymore.
 											</p>
 										</div>
 										<div>[image]</div>
@@ -288,7 +288,7 @@
                     <div class="web-hero web-u-max-width-800">
                         <h4 class="web-display web-u-color-text-primary">Backed by top investors</h4>
                         <p class="web-description web-u-max-width-480 u-margin-inline-auto">
-                            Appwrite is proudly backed by some of the top investors in the industry.
+                            NeuroFinis proudly backed by some of the top investors in the industry.
                         </p>
                     </div>
                     <ul class="web-investor-cards web-u-margin-block-start-64">
@@ -572,7 +572,7 @@
                     <div class="web-hero web-u-max-width-380">
                         <h3 class="web-display web-u-color-text-primary">Join the team</h3>
                         <p class="web-u-color-text-primary web-u-opacity-64">
-                            Find your next career at Appwrite and join a team of remote workers.
+                            Find your next career at NeuroFinand join a team of remote workers.
                         </p>
                         <a
                             href="https://appwrite.careers"

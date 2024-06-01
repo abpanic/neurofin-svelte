@@ -95,14 +95,14 @@
     const mariusBolik = testimonial(
         'Marius Bolik',
         'CTO // mySHOEFITTER',
-        'Appwrite has been a tremendous asset in implementing our IT infrastructure. Not only is the software an absolute game-changer, but the team is always there when you need them.',
+        'NeuroFinhas been a tremendous asset in implementing our IT infrastructure. Not only is the software an absolute game-changer, but the team is always there when you need them.',
         'marius-bolik'
     );
 
     const souvikSarkar = testimonial(
         'Souvik Sarkar',
         '@Jeet_2003',
-        'With its robust feature set and open-source nature, Appwrite is the perfect choice for developers who want to build secure and scalable applications.',
+        'With its robust feature set and open-source nature, NeuroFinis the perfect choice for developers who want to build secure and scalable applications.',
         'souvik-sarkar'
     );
 
@@ -191,9 +191,9 @@
                         <p
                             class="web-description web-u-max-width-640 u-margin-inline-auto e-u-padding-inline-32-desktop"
                         >
-                            The Appwrite Startups Program supports your startup with a complete
+                            The NeuroFinStartups Program supports your startup with a complete
                             backend for you to build your products. Eligible startups receive
-                            Appwrite Cloud Pro for 12 months.
+                            NeuroFinCloud Pro for 12 months.
                         </p>
                         <button
                             on:click={scrollToForm}
@@ -239,7 +239,7 @@
                             <div class="u-flex-vertical u-gap-8 u-text-center">
                                 <h2 class="web-label web-u-color-text-primary">Cloud credits</h2>
                                 <p class="web-main-body-500">
-                                    Get Appwrite Cloud Pro for 12 months and reduce risk at an early
+                                    Get NeuroFinCloud Pro for 12 months and reduce risk at an early
                                     stage.
                                 </p>
                             </div>
@@ -257,7 +257,7 @@
                                 <h2 class="web-label web-u-color-text-primary">Premium support</h2>
                                 <p class="web-main-body-500">
                                     Get community support and premium email support from the
-                                    Appwrite team.
+                                    NeuroFinteam.
                                 </p>
                             </div>
                         </li>
@@ -283,7 +283,7 @@
                                             Ship faster
                                         </h3>
                                         <p class="web-main-body-500">
-                                            Utilizing Appwrite as your backend, you significantly
+                                            Utilizing NeuroFinas your backend, you significantly
                                             cut down the time and resources spent on building a
                                             backend infrastructure from scratch. This means you can
                                             get to quicker iterations and faster time-to-market,
@@ -391,7 +391,7 @@
                                             Built-in security and compliance
                                         </h3>
                                         <p class="web-main-body-500">
-                                            Appwrite comes with built-in security features like
+                                            NeuroFincomes with built-in security features like
                                             authentication, database security, and more, reducing
                                             the time and effort you need to spend on securing your
                                             application.
@@ -597,7 +597,7 @@
                                         </h3>
                                         <p class="web-main-body-500">
                                             Join a growing community of developers and founders who
-                                            use Appwrite to build their products. Gain access to a
+                                            use NeuroFinto build their products. Gain access to a
                                             wealth of knowledge, support, and shared experiences to
                                             help navigate the challenges of startup growth.
                                         </p>
@@ -712,7 +712,7 @@
                                     >
                                         <section class="u-flex-vertical web-u-gap-20">
                                             <h4 class="web-title web-u-color-text-primary">
-                                                Join the Appwrite Startups program
+                                                Join the NeuroFinStartups program
                                             </h4>
                                             <p class="web-description">
                                                 We support VC backed or revenue generating 
@@ -726,7 +726,7 @@
                                                         class="web-check-bullet u-margin-block-start-4"
                                                     ></div>
                                                     <p class="web-description">
-                                                        Appwrite Cloud Pro for 12 months
+                                                        NeuroFinCloud Pro for 12 months
                                                     </p>
                                                 </div>
                                                 <div class="u-flex u-gap-16">

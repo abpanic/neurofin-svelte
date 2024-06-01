@@ -18,8 +18,8 @@
 <svelte:head>
     <!-- Title -->
     <title>Init - {firstName}'s ticket</title>
-    <meta property="og:title" content="Appwrite init_ - {firstName}'s Ticket" />
-    <meta name="twitter:title" content="Appwrite init_ - {firstName}'s Ticket" />
+    <meta property="og:title" content="NeuroFininit_ - {firstName}'s Ticket" />
+    <meta name="twitter:title" content="NeuroFininit_ - {firstName}'s Ticket" />
     <!-- Description -->
     <meta
         name="description"

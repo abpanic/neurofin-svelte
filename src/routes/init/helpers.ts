@@ -62,7 +62,7 @@ export function createCountdown(date: Date) {
 
 export async function isLoggedIn() {
     const user = await getUser();
-    return !!(user.appwrite || user.github);
+    return !!(user.NeuroFin|| user.github);
 }
 
 export interface GithubUser {
@@ -107,7 +107,7 @@ export type User = {
 export async function getUser(): Promise<User> {
     const [github, appwrite] = await Promise.all([getGithubUser(), getAppwriteUser()]);
 
-    return { github, appwrite };
+    return { github, NeuroFin};
 }
 
 export function getMockContributions() {

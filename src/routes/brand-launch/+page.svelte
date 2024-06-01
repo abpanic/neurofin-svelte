@@ -462,7 +462,7 @@
                         <p
                             class="web-headline web-u-color-text-primary web-u-max-width-610 u-margin-inline-auto"
                         >
-                            Build like a team of hundreds
+                            Innovate, Interpret, Inspire
                         </p>
                     </div>
                 </div>
@@ -1587,7 +1587,7 @@
                                 class="web-main-body-500 u-margin-block-start-4 web-u-color-text-primary web-u-opacity-64"
                             >
                                 Join our rebrand celebration by sharing #teamof100 in your socials
-                                for a chance to win brand-new Appwrite swag.
+                                for a chance to win brand-new NeuroFinswag.
                             </p>
                             <button
                                 class="web-button is-transparent u-margin-block-start-16 is-full-width-mobile"

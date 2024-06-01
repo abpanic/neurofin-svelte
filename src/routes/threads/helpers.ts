@@ -6,7 +6,7 @@ import {
 } from '$env/static/public';
 import { databases, functions } from '$lib/appwrite';
 import { Query } from '@appwrite.io/console';
-import type { DiscordMessage, DiscordThread } from './types';
+//import type { DiscordMessage, DiscordThread } from './types';
 
 type Ranked<T> = {
     data: T;
@@ -14,7 +14,7 @@ type Ranked<T> = {
 };
 
 type FilterThreadsArgs = {
-    threads: DiscordThread[];
+    //threads: DiscordThread[];
     q?: string | null;
     tags?: string[];
     allTags?: boolean;

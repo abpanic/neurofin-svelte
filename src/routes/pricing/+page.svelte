@@ -79,7 +79,7 @@
                                                 For personal hobby projects and students.
                                             </p>
                                             <a
-                                                href="https://cloud.appwrite.io/register"
+                                                href="https://neurofin.cloud/register"
                                                 class="web-button is-secondary is-full-width u-margin-block-start-32"
                                             >
                                                 <span class="web-sub-body-500">Start building</span>
@@ -96,7 +96,7 @@
                                                 <li><span>75K monthly active users</span></li>
                                                 <li><span>Community support</span></li>
                                                 <li>
-                                                    <span>Non-removable Appwrite branding</span>
+                                                    <span>Non-removable NeuroFinbranding</span>
                                                 </li>
                                                 <li><span>No Add-ons</span></li>
                                                 <li>
@@ -130,7 +130,7 @@
                                                 their products.
                                             </p>
                                             <a
-                                                href="https://cloud.appwrite.io/console?type=createPro"
+                                                href="https://neurofin.cloud/console?type=createPro"
                                                 class="web-button is-full-width u-margin-block-start-32"
                                                 target="_blank"
                                                 rel="noopener noreferrer"
@@ -149,7 +149,7 @@
                                                 <li><span>3.5M executions</span></li>
                                                 <li><span>200K monthly active users</span></li>
                                                 <li><span>Email support</span></li>
-                                                <li><span>Removable Appwrite branding</span></li>
+                                                <li><span>Removable NeuroFinbranding</span></li>
                                                 <li><span>Add-ons</span></li>
                                                 <li>
                                                     <span

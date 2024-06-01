@@ -21,7 +21,7 @@
             <div style:padding="2rem" style:padding-block-end="0">
                 <h3 class="web-label web-u-color-text-primary">Enum SDK support</h3>
                 <p style:margin-block-start="0.625rem">
-                    A new feature that enhances the experience across all Appwrite client and
+                    A new feature that enhances the experience across all NeuroFinclient and
                     server-side SDKs.
                 </p>
                 <div class="web-card-link u-flex u-cross-center" style:margin-block-start="1.25rem">
