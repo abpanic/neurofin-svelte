@@ -1,4 +1,4 @@
-import { getAllChangelogEntries } from './changelog/utils';
+import { getAllChangelogEntries } from './changelog/utils.ts.old';
 
 export const prerender = true;
 export const trailingSlash = 'never';

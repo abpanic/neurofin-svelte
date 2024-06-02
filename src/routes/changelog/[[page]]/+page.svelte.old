@@ -4,7 +4,7 @@
     import { Main } from '$lib/layouts';
     import { DEFAULT_DESCRIPTION, DEFAULT_HOST } from '$lib/utils/metadata';
     import { onMount } from 'svelte';
-    import ChangelogEntry from '../ChangelogEntry.svelte';
+    import ChangelogEntry from '../ChangelogEntry.svelte.old';
     import { page } from '$app/stores';
     import { CHANGELOG_KEY } from '../utils';
 

@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { isInChangelog } from '$markdoc/layouts/Changelog.svelte';
+    import { isInChangelog } from '$markdoc/layouts/Changelog.svelte.old';
     import { isInPolicy } from '$markdoc/layouts/Policy.svelte';
     import { setContext } from 'svelte';
 

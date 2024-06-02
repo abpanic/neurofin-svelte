@@ -1,6 +1,6 @@
 <script lang="ts">
     import { isInDocs } from '$lib/layouts/Docs.svelte';
-    import { isInChangelog } from '$markdoc/layouts/Changelog.svelte';
+    import { isInChangelog } from '$markdoc/layouts/Changelog.svelte.old';
     import { isInPolicy } from '$markdoc/layouts/Policy.svelte';
 
     const inDocs = isInDocs();
