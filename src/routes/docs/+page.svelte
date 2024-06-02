@@ -1,6 +1,5 @@
 <script lang="ts">
     import { Carousel } from '$lib/components';
-    import Technologies from '$lib/components/Technologies.svelte';
     import Docs from '$lib/layouts/Docs.svelte';
     import { DEFAULT_DESCRIPTION, DEFAULT_HOST } from '$lib/utils/metadata';
     import { TITLE_SUFFIX } from '$routes/titles';
@@ -100,7 +99,7 @@
                 Start building with your preferred web, mobile, and native frameworks by following a
                 quick start guide.
             </p>
-            <Technologies />
+            
             <a href="/docs/sdks" class="web-button is-secondary" style:align-self="start">
                 <span class="web-sub-body-500">Explore all technologies</span>
             </a>

@@ -39,7 +39,7 @@
         description: DEFAULT_DESCRIPTION,
         ogImage: DEFAULT_HOST + '/images/open-graph/website.png',
 
-        APP_NAME: 'Appwrite'
+        APP_NAME: 'NeuroFin'
     };
 
     let showToc = false;

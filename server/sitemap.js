@@ -9,13 +9,13 @@ export async function sitemap() {
 
     const routes = [
         ...prerendered,
-        ...collectThreads()
+        
     ];
 
     const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         ${routes.filter(route => !route.endsWith('.json')).map(route => `<url>
-            <loc>https://appwrite.io${route}</loc>
+            <loc>https://neurofin.cloud${route}</loc>
         </url>
         `).join('')}
     </urlset>`;
@@ -27,10 +27,4 @@ export async function sitemap() {
         }
         next();
     }
-}
-
-function collectThreads() {
-    const threads = createRequire(import.meta.url)('../build/prerendered/threads/data.json');
-
-    return threads.map(id => `/threads/${id}`);
 }

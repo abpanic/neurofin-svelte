@@ -3,7 +3,6 @@
     import Products from '$lib/animations/Products/Products.svelte';
     import ProductsMobile from '$lib/animations/Products/ProductsMobile.svelte';
     import PreFooter from '$lib/components/PreFooter.svelte';
-    import Technologies from '$lib/components/Technologies.svelte';
     import { Main } from '$lib/layouts';
     import { isMobileNavOpen } from '$lib/layouts/Main.svelte';
     import { DEFAULT_DESCRIPTION, DEFAULT_HOST } from '$lib/utils/metadata';
@@ -374,7 +373,7 @@
                                 icon="product-hunt"
                                 avatarSrc="/images/community/avatars/terry.png"
                             >
-                                Been a huge supporter of NeuroFinfor over a year, championing it
+                                Been a huge supporter of NeuroFin for over a year, championing it
                                 even at the companies I was working at. Their community is
                                 second-to-none, speed of feature release is exceptional, and the
                                 support in their Discord is incredible.
@@ -485,7 +484,7 @@
                             We support many SDKs making NeuroFinflexible to your needs and ensuring
                             you can code with the language you want at any time.
                         </p>
-                        <Technologies />
+                        
                         <a
                             href="/docs/sdks"
                             class="web-button is-secondary"

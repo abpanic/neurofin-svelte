@@ -1,7 +1,7 @@
 <script lang="ts" context="module">
     export const tribes = [
         null,
-        'Appwrite',
+        'NeuroFin',
         'Flutter',
         'Svelte',
         'React',

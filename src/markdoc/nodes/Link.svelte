@@ -10,11 +10,10 @@
     const rel = isExternal ? 'noopener nofollow' : undefined;
 
     const inDocs = isInDocs();
-    const inChangelog = isInChangelog();
+    
 
     $: classes = (() => {
         if (inDocs) return 'web-paragraph-md';
-        if (inChangelog) return 'web-paragraph-lg in-changelog';
         return '';
     })();
 </script>

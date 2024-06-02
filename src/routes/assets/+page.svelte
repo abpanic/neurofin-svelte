@@ -104,7 +104,7 @@
                                 </h2>
                                 <p>
                                     Write 'Appwrite,' with a lowercase 'w' and no space between the
-                                    two words. Please refrain from using variations like 'AppWrite'
+                                    two words. Please refrain from using variations like 'NeuroFin'
                                     or 'App Write'.
                                 </p>
                             </div>

@@ -14,23 +14,7 @@
 
     const links: Record<string, { label: string; href: string; target?: string; rel?: string }[]> =
         {
-            'Quick starts': [
-                { label: 'Web', href: '/docs/quick-starts/web' },
-                { label: 'Next.js', href: '/docs/quick-starts/nextjs' },
-                { label: 'React', href: '/docs/quick-starts/react' },
-                { label: 'Vue.js', href: '/docs/quick-starts/vue' },
-                { label: 'Nuxt', href: '/docs/quick-starts/nuxt' },
-                { label: 'SvelteKit', href: '/docs/quick-starts/sveltekit' },
-                { label: 'Refine', href: '/docs/quick-starts/refine' },
-                { label: 'Angular', href: '/docs/quick-starts/angular' },
-                { label: 'React Native', href: '/docs/quick-starts/react-native' },
-                { label: 'Flutter', href: '/docs/quick-starts/flutter' },
-                { label: 'Apple', href: '/docs/quick-starts/apple' },
-                { label: 'Android', href: '/docs/quick-starts/android' },
-                { label: 'Qwik', href: '/docs/quick-starts/qwik' },
-                { label: 'Astro', href: '/docs/quick-starts/astro' },
-                { label: 'Solid', href: '/docs/quick-starts/solid' }
-            ],
+           
             Products: [
                 { label: 'Auth', href: '/docs/products/auth' },
                 { label: 'Databases', href: '/docs/products/databases' },
@@ -43,7 +27,6 @@
                 { label: 'Docs', href: '/docs' },
                 { label: 'Community', href: '/community' },
                 { label: 'Init', href: '/init' },
-                { label: 'Threads', href: '/threads' },
                 { label: 'Blog', href: '/blog' },
                 {
                     label: 'Source code',

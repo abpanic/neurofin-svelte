@@ -177,7 +177,7 @@
 							<option>News</option>
 							<option>Insights</option>
 							<option>Tutorials</option>
-							<option>Changelog</option>
+							
 						</select>
 						<span class="icon-cheveron-down" aria-hidden="true" />
 					</label>

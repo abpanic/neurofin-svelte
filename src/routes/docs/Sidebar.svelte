@@ -9,11 +9,7 @@
                     href: '/docs',
                     icon: 'icon-home'
                 },
-                {
-                    label: 'Quick start',
-                    href: '/docs/quick-starts',
-                    icon: 'icon-play'
-                },
+                
                 {
                     label: 'Tutorials',
                     href: '/docs/tutorials',

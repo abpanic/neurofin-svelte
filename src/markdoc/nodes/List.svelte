@@ -8,16 +8,15 @@
     setContext('no-paragraph', true);
 
     const inPolicy = isInPolicy();
-    const inChangelog = isInChangelog();
+    
 </script>
 
 <svelte:element
     this={ordered ? 'ol' : 'ul'}
     class:web-numeric-list={ordered}
     class:web-pink-dots={!ordered}
-    class:in-policy={inPolicy}
-    class:in-changelog={inChangelog}><slot /></svelte:element
->
+    class:in-policy={inPolicy}></svelte:element><slot />
+    
 
 <style lang="scss">
     .in-policy {
@@ -46,9 +45,5 @@
         }
     }
 
-    .in-changelog {
-        padding-inline-start: 0.9rem;
-        margin-block-end: 1rem;
-        gap: 0.75rem;
-    }
+    
 </style>

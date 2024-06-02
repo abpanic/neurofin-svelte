@@ -8,7 +8,6 @@
     const noParagraph = hasContext('no-paragraph') ? getContext('no-paragraph') : false;
     const inDocs = isInDocs();
     const inPolicy = isInPolicy();
-    const inChangelog = isInChangelog();
     const inTable = isInTable();
 
     let className = '';

@@ -8,17 +8,18 @@
     const target = isExternal ? '_blank' : undefined;
     const rel = isExternal ? 'noopener nofollow' : undefined;
 
-    const inChangelog = isInChangelog();
+
     const inDocs = isInDocs();
 
     $: classes = (() => {
         if (inDocs) return 'web-link web-paragraph-md';
-        if (inChangelog) return 'web-link web-paragraph-lg';
         return '';
     })();
 </script>
 
-<a class={classes} data-in-changelog={inChangelog ? '' : undefined} {href} {target} {rel}
+
+
+<a class={classes} data-in-changelog={inDocs ? '' : undefined} {href} {target} {rel}
     ><slot /><span class="icon-cheveron-right" style:font-size="16px" /></a
 >
 
