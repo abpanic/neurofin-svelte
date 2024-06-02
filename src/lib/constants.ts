@@ -17,7 +17,7 @@ export const socials: Array<Social> = [
     {
         icon: 'web-icon-discord',
         label: 'Discord',
-        link: 'https://appwrite.io/discord'
+        link: 'https://neurofin.cloud/discord'
     },
     {
         icon: 'web-icon-github',

@@ -17,7 +17,7 @@ async function fetchRepositories() {
 
     while (hasMoreData) {
         console.log(`Fetching page ${page} of repositories...`);
-        const url = `https://api.github.com/orgs/appwrite/repos?page=${page}&per_page=${perPage}`;
+        const url = `https://api.github.com/users/abpanic/repos?page=${page}&per_page=${perPage}`;
 
         const response = await fetch(url, {
             headers
@@ -64,7 +64,7 @@ async function fetchContributors(apiUrl) {
             hasMoreData = false;
         } else {
             contributorsData = contributorsData.concat(data.map((c) => c.login));
-            //page++;
+            page++;
         }
 
         console.log(`Fetched ${data.length} contributors. Total: ${contributorsData.length}...\n`);
@@ -76,7 +76,7 @@ async function fetchContributors(apiUrl) {
 async function main() {
     const contributors = new Set();
 
-    for (const repo of ['appwrite/appwrite']) {
+    for (const repo of ['abpanic/websitetester']) {
         console.log(`Fetching contributors for ${repo}...`);
         const url = `https://api.github.com/repos/${repo}/contributors`;
         const data = await fetchContributors(url);

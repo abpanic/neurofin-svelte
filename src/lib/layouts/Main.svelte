@@ -18,7 +18,7 @@
     import { BANNER_KEY, GITHUB_STARS } from '$lib/constants';
     import { isVisible } from '$lib/utils/isVisible';
     import { createScrollInfo } from '$lib/utils/scroll';
-    import { hasNewChangelog } from '$routes/changelog/utils';
+    //import { hasNewChangelog } from '$routes/changelog/utils';
     import { addEventListener } from '@melt-ui/svelte/internal/helpers';
     import { onMount } from 'svelte';
     import { page } from '$app/stores';

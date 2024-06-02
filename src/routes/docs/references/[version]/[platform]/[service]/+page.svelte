@@ -97,7 +97,7 @@
     {#if $page.params.version !== 'cloud'}
         <link
             rel="canonical"
-            href={`https://appwrite.io/docs/references/cloud/${$page.params.platform}/${$page.params.service}`}
+            href={`https://neurofin.cloud/docs/references/cloud/${$page.params.platform}/${$page.params.service}`}
         />
     {/if}
 </svelte:head>

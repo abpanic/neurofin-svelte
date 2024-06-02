@@ -65,9 +65,7 @@
                         >Status</a
                     >
                 </li>
-                <!-- <li>
-					<a href="https://github.com/appwrite/appwrite/releases" target="_blank" rel="noopener noreferrer">Changelog</a>
-				</li> -->
+
             </ul>
             <div class="web-main-footer-grid-1-column-4 web-main-footer-copyright">
                 Copyright © {year} NeuroFin

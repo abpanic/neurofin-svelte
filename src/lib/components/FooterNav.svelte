@@ -45,7 +45,6 @@
                 { label: 'Init', href: '/init' },
                 { label: 'Threads', href: '/threads' },
                 { label: 'Blog', href: '/blog' },
-                { label: 'Changelog', href: '/changelog' },
                 {
                     label: 'Source code',
                     href: 'https://github.com/appwrite',

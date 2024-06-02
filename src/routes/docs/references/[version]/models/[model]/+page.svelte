@@ -13,7 +13,7 @@
     {#if $page.params.version !== 'cloud'}
         <link
             rel="canonical"
-            href={`https://appwrite.io/docs/references/cloud/models/${$page.params.model}`}
+            href={`https://neurofin.cloud/docs/references/cloud/models/${$page.params.model}`}
         />
     {/if}
 </svelte:head>

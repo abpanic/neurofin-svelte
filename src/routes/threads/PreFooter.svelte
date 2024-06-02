@@ -8,7 +8,7 @@
                 <p class="web-main-body-400 u-margin-block-start-16 web-u-color-text-primary">
                     Get community support by joining our Discord server.
                 </p>
-                <a class="web-button u-margin-block-start-24" href="https://appwrite.io/discord">
+                <a class="web-button u-margin-block-start-24" href="https://neurofin.cloud/discord">
                     <span class="web-icon-discord" />
                     <span class="text">Join Discord</span>
                 </a>
@@ -16,9 +16,9 @@
             <div class="cardy">
                 <h3 class="web-label web-u-color-text-primary">Get premium support</h3>
                 <p class="web-main-body-400 u-margin-block-start-16 web-u-color-text-primary">
-                    Join NeuroFinPro and get email support from our team.
+                    Join NeuroFin Pro and get email support from our team.
                 </p>
-                <a class="web-button u-margin-block-start-24" href="https://appwrite.io/pricing">
+                <a class="web-button u-margin-block-start-24" href="https://neurofin.cloud/pricing">
                     <span class="text">Learn more</span>
                 </a>
             </div>
