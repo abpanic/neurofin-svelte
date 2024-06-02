@@ -24,7 +24,7 @@ const config = {
                 author: absolute('./src/markdoc/layouts/Author.svelte'),
                 category: absolute('./src/markdoc/layouts/Category.svelte'),
                 policy: absolute('./src/markdoc/layouts/Policy.svelte'),
-                //changelog: absolute('./src/markdoc/layouts/Changelog.svelte')
+                
             }
         }),
         preprocessMeltUI()
